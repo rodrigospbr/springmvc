@@ -1,0 +1,5 @@
+package com.br.spring.mvc.mudi.controller;
+
+public class PedidoController {
+
+}
