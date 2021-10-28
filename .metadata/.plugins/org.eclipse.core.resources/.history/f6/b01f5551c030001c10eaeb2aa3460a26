@@ -1,5 +1,0 @@
-package com.br.spring.mvc.mudi.dto;
-
-public class RequestNewOrder {
-
-}
